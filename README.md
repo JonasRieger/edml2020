@@ -8,7 +8,7 @@ For bug reports and comments please use the [issue tracker](https://github.com/J
 ## Related Software
 * [tmT](https://github.com/Docma-TU/tmT) is used to read the XML files and convert them to objects processable by ``tosca``.
 * [tm](https://CRAN.R-project.org/package=tm) is used for preprocessing the text data.
-* [tosca](https://github.com/Docma-TU/tosca) is a framework for statistical methods in content analysis including visualizations and validation techniques. It is used for managing and manipulating the text data to a structure requested by ``ldaPrototype``.
+* [tosca](https://github.com/Docma-TU/tosca) is used for managing and manipulating the text data to a structure requested by ``ldaPrototype``.
 * [ldaPrototype](https://github.com/JonasRieger/ldaPrototype) is used to determine a prototype from a number of runs of Latent Dirichlet Allocation.
 * [lubridate](https://lubridate.tidyverse.org/) is used as it makes dealing with dates little easier.
 * [arrangements](https://randy3k.github.io/arrangements/) is used for faster computation of combinations.
