@@ -24,10 +24,10 @@ for (method in c("BW", "BS", "BSW")){
     BSW = "BSentenceWord"
   )
   mtext(tmp, 4, 0.4, cex = 0.9)
-  #pos = switch(paste0("m", method),
-  #  m = "bottomright",
-  #  mWord = "topleft",
-  #  mWordSent = "bottomright"
+  #pos = switch(method,
+  #  BS = "bottomright",
+  #  BW = "topleft",
+  #  BSW = "bottomright"
   #)
   if(method == "BW"){
     legend("topleft", c("  10%", "  20%", "  30%", "  50%", "100%"),
