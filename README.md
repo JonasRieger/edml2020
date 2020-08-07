@@ -3,7 +3,7 @@ This repository provides data and scripts related to the paper:
 
 Rieger, J., Jentsch, C. &  Rahnenführer, J. (2020). Assessing the Uncertainty of the Text Generating Process using Topic Models. To appear in [EDML 2020.](https://imada.sdu.dk/Research/EDML/2020/)
 
-For bug reports and comments please use the [issue tracker](https://github.com/JonasRieger/edml2020/issues).
+For bug reports, comments and questions please use the [issue tracker](https://github.com/JonasRieger/edml2020/issues).
 
 ## Related Software
 * [tmT](https://github.com/Docma-TU/tmT) is used to read the XML files and convert them to objects processable by ``tosca``.
