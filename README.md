@@ -1,7 +1,7 @@
 # Assessing the Uncertainty of the Text Generating Process using Topic Models
 This repository provides data and scripts related to the paper: 
 
-[Rieger, J., Jentsch, C. und Rahnenführer, J. (2020).](https://doi.org/10.1007/978-3-030-65965-3_26) Assessing the Uncertainty of the Text Generating Process using Topic Models. ECML PKDD 2020 Workshops. CCIS 1323, pp. 385-396.
+[Rieger, J., Jentsch, C. and Rahnenführer, J. (2020).](https://doi.org/10.1007/978-3-030-65965-3_26) Assessing the Uncertainty of the Text Generating Process using Topic Models. ECML PKDD 2020 Workshops. CCIS 1323, pp. 385-396.
 
 For bug reports, comments and questions please use the [issue tracker](https://github.com/JonasRieger/edml2020/issues).
 
